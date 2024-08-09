@@ -38,7 +38,7 @@ The goal of this assignment is to apply your knowledge of React by building a fu
 2. **CSS and Bootstrap:**
    - Use the provided Figma design to style your app. Ensure that your app is responsive and follows the design precisely.
 
-3. 3. **JavaScript Functionality:**
+3. **JavaScript Functionality:**
    - Implement the necessary React components to handle input, calculations, and display of the result.
    - Ensure that chained calculations are processed correctly and that the calculator updates dynamically as users interact with it.
    - **Ensure the Following React Concepts Are Used:**

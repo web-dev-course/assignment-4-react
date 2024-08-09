@@ -44,7 +44,7 @@ The goal of this assignment is to apply your knowledge of React by building a fu
    - **Ensure the Following React Concepts Are Used:**
      - **Hooks:** Utilize `useState` for managing the state of the calculator's display and current input.
      - **Components:** Break down the calculator into functional components (e.g., Display, ButtonPanel, Button) for better organization and reusability.
-     - **Props:** Use props to pass data such as button values between components, ensuring proper communication and functionality and display.
+     - **Props:** Use props to pass data such as button values between components, ensuring proper communication, functionality and display.
 
 
 ## Submission
